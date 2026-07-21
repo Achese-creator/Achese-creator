@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yifieyeh Achesomie Goni 👋
 
-<!--
-**Achese-creator/Achese-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer passionate about Machine Learning, Deep Learning, and Generative AI.
 
-Here are some ideas to get you started:
+I build intelligent applications using Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern AI frameworks to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🤖 AI Customer Support Chatbot (RAG + LangChain + FAISS + Groq)
+- ❤️ Cardiovascular Disease Prediction (Deep Learning + TensorFlow)
+- 🎓 Student Performance Prediction (Machine Learning)
+
+## 🛠 Tech Stack
+Python • TensorFlow • Keras • Scikit-learn • LangChain • FAISS • Hugging Face • Streamlit • Git
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/maverickhoodie
+- Email: yifieyeha@gmail.com
